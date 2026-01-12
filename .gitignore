@@ -1,0 +1,87 @@
+# ================= UNITY CORE =================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity cache & generated
+[Dd]erivedDataCache/
+[Dd]ebug/
+[Cc]ache/
+
+# Ignore Assets folder (all game assets)
+Assets/
+
+# ================= IDE =================
+.vs/
+.idea/
+.gradle/
+.consulo/
+ExportedObj/
+
+# Rider
+Assets/Plugins/Editor/JetBrains*
+*.DotSettings.user
+
+# ================= VISUAL STUDIO =================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# ================= UNITY GENERATED =================
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+mono_crash.*
+
+# ================= BUILDS =================
+*.apk
+*.aab
+*.app
+*.exe
+*.x86
+*.x86_64
+*.unitypackage
+
+# ================= LOGS =================
+*.log
+
+# ================= BLENDER =================
+*.blend1
+*.blend1.meta
+
+# ================= ADDRESSABLES =================
+/ServerData
+/Assets/StreamingAssets/aa*
+/Assets/AddressableAssetsData/*/*.bin*
+/Assets/Addressables_Temp*
+
+# ================= ASSET STORE CACHE =================
+/Assets/AssetStoreTools*
+
+# ================= VIDEO & TEMP MEDIA =================
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.psd
+*.zip
+*.rar
